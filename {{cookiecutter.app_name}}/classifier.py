@@ -289,4 +289,4 @@ if __name__ == '__main__':
     print("Plotting the results")
     plot(results)
     print('hello world')
-    print('Today is Wednesday')
+    print('Today is Monday')
