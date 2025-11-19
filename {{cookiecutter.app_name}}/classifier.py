@@ -288,5 +288,5 @@ if __name__ == '__main__':
     # Display the results
     print("Plotting the results")
     plot(results)
-    print('Hello world')
+    print('Hello world!!!')
     print('Today is Wednesday')
